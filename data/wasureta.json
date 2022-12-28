@@ -561,6 +561,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "riptide",
+            "link": "https://youtu.be/n9vVm6BgpXY",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
