@@ -2,8 +2,7 @@
     "id": 85527602,
     "name": "Shitty Molten Core",
     "author": "sarcasticmuch",
-    "creators": [
-    ],
+    "creators": [],
     "verifier": "qzkk",
     "verification": "https://youtu.be/LmLMBxe322A",
     "showcase": "https://youtu.be/kDyKcT1rbRI",
@@ -11,7 +10,7 @@
     "records": [
         {
             "user": "Dandy Chiggins"
-            "link": "https://www.youtube.com/watch?v=vlayncqHdq0"
+            "link": "https://www.youtube.com/watch?v=vlayncqHdq0",
             "percent": 100,
             "hz": 360
         }
