@@ -11,6 +11,7 @@
     ],
     "verifier": "Dofar",
     "verification": "https://youtu.be/L4iWB6BLxUU",
+    "showcase": "https://youtu.be/BM_JvluMhhk",
     "percentToQualify": 100,
     "records": [
         {
@@ -36,6 +37,12 @@
             "link": "https://youtube.com/watch?v=LdDa6-18ThU&feature=shares",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "Fra4",
+            "link": "https://youtu.be/4kMOdidYE0s",
+            "percent": 100,
+            "hz": 300
         }
     ]
 }
