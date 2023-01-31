@@ -7,5 +7,30 @@
     "verification": "https://youtu.be/TRJRKuFxA28",
     "showcase": "https://youtu.be/HzGRLWFmQf4",
     "percentToQualify": 64,
-    "records": []
+    "records": [
+        {
+            "user": "normus",
+            "link": "https://youtu.be/_YuzaYrJGSc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/qo4x6odOuKg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FullyDiverse",
+            "link": "https://www.youtube.com/watch?v=gI9VEX0etHY",
+            "percent": 100,
+            "hz": 321
+        },
+        {
+            "user": "Rixen Ace",
+            "link": "https://www.youtube.com/watch?v=C1MsHkePS6o",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
 }
