@@ -112,8 +112,8 @@
         },
         {
             "user": "lucap123",
-            "link": "https://www.youtube.com/watch?v=fk-VdPx_bK0",
-            "percent": 86,
+            "link": "https://www.youtube.com/watch?v=QjjAS_Bxxng",
+            "percent": 93,
             "hz": 144
         },
         {
@@ -121,7 +121,21 @@
             "link": "https://www.youtube.com/watch?v=eCGmIpWrCtU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "FullyDiverse",
+            "link": "https://www.youtube.com/watch?v=1pGf_7WzoYE",
+            "percent": 100,
+            "hz": 321
+        },
+        {
+            "user": "Dijinald Cactus",
+            "link": "https://www.youtube.com/watch?v=tfLWPtUyBjM",
+            "percent": 100,
+            "hz": 120
         }
+        
+        
             
     ]
 }
